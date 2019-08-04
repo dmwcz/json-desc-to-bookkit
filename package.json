@@ -1,0 +1,15 @@
+{
+  "name": "json-desc-to-bookkit",
+  "version": "1.0.0",
+  "description": "sync json description files with bookkit pages",
+  "main": "sync-with-bookkit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "uu_appg01_server-client": "latest",
+    "uu_appg01_core-uri": "latest"
+  },
+  "author": "Milan Martinek",
+  "license": "MIT"
+}
